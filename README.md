@@ -1,0 +1,1 @@
+The definitions and the sequent calculus system G3cp, and the strategy/case-split to compress the proof (under the *notes* section) are all from the book Structural Proof Theory by Negri and von Plato. I wrote the proof as an explicit double induction on weight and cut-height.
